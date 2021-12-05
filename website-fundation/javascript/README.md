@@ -1,2 +1,3 @@
 # JavaScript
 
+const vs var

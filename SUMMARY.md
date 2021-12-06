@@ -16,7 +16,10 @@
 
 * [High-level React concept](react/high-level-react-concept.md)
 * [Common Library](react/common-library.md)
-* [React class](react/react-class.md)
+* [React class](react/react-class/README.md)
+  * [React Lifecycle](react/react-class/react-lifecycle.md)
+  * [Keyword: this](react/react-class/keyword-this.md)
+* [Hooks](react/hooks.md)
 
 ## Node.js
 

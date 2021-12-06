@@ -25,3 +25,7 @@ Cookie vs Session
 
 
 Async vs sync method
+
+
+
+Applicaiton server vs API server

@@ -27,3 +27,14 @@ app.use(function (req, res, next){
 })
 ```
 
+#### Router-level middleware
+
+Router-level middleware binds with an instance of express.Router(). Router-level middleware allows us to create modular, mountable and more maintainable route handlers.
+
+![](../../.gitbook/assets/Capture.PNG)
+
+Route Parameters
+
+:variable&#x20;
+
+&#x20;

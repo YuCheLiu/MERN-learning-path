@@ -20,9 +20,10 @@
 
 * [High-level concept](node.js/high-level-concept.md)
 * [Basic syntax](node.js/basic-syntax.md)
-* [Package manager](node.js/package-manager.md)
 * [Development environment setup](node.js/development-environment-setup.md)
-* [Package.json file](node.js/package.json-file.md)
+* [Package](node.js/package/README.md)
+  * [Package.json file](node.js/package/package.json-file.md)
+  * [Package manager](node.js/package/package-manager.md)
 
 ## Database
 

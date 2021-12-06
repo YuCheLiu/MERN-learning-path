@@ -17,3 +17,11 @@ Runtime vs Compile time
 
 
 JSON file
+
+
+
+Cookie vs Session
+
+
+
+Async vs sync method

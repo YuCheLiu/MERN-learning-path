@@ -1,6 +1,6 @@
 # Table of contents
 
-* [What is Mern stack?](README.md)
+* [What is MERN stack?](README.md)
 
 ## Website fundation
 

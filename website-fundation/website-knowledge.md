@@ -29,3 +29,22 @@ Async vs sync method
 
 
 Applicaiton server vs API server
+
+
+
+API endpoint
+
+
+
+REST API vs SOAP
+
+
+
+CRUD( Create, Read, Update, Delete)
+
+
+
+GET, POST, PUT, PATCH, DELETE
+
+
+

@@ -12,3 +12,5 @@ Component-Based design&#x20;
 
 
 
+Babel compiler helps us to transfer JSX file to javascript file
+

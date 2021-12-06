@@ -2,6 +2,8 @@
 
 ### Here is the example package.json file:
 
+learn more about json file: json&#x20;
+
 ```
 {
   "name": "MERN Stack Learning Path",

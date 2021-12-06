@@ -22,8 +22,8 @@
 * [Basic syntax](node.js/basic-syntax.md)
 * [Development environment setup](node.js/development-environment-setup.md)
 * [Package](node.js/package/README.md)
-  * [Package.json file](node.js/package/package.json-file.md)
-  * [Package manager](node.js/package/package-manager.md)
+  * [Package.json file](node.js/package.json-file.md)
+  * [Package manager](node.js/package-manager.md)
 
 ## Database
 
@@ -31,5 +31,6 @@
 
 ## Server
 
+* [High-level Server concept](server/high-level-server-concept.md)
 * [Express](server/express/README.md)
   * [Middleware](server/express/middleware.md)

@@ -9,12 +9,14 @@
 * [JavaScript](website-fundation/javascript/README.md)
   * [Callback function](website-fundation/javascript/callback-function.md)
   * [JavaScript version](website-fundation/javascript/javascript-version.md)
+  * [Class](website-fundation/javascript/class.md)
 * [Website knowledge](website-fundation/website-knowledge.md)
 
 ## React
 
-* [Common Library](react/common-library.md)
 * [High-level React concept](react/high-level-react-concept.md)
+* [Common Library](react/common-library.md)
+* [React class](react/react-class.md)
 
 ## Node.js
 

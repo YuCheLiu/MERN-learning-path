@@ -1,3 +1,0 @@
-# JavaScript
-
-const vs var

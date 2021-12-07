@@ -2,15 +2,15 @@
 
 * [What is MERN stack?](README.md)
 
-## Website fundation
+## Website fundamentals
 
-* [HTML](website-fundation/html.md)
-* [CSS](website-fundation/css.md)
-* [JavaScript](website-fundation/javascript/README.md)
-  * [Callback function](website-fundation/javascript/callback-function.md)
-  * [JavaScript version](website-fundation/javascript/javascript-version.md)
-  * [Class](website-fundation/javascript/class.md)
-* [Website knowledge](website-fundation/website-knowledge.md)
+* [HTML](website-fundamentals/html.md)
+* [CSS](website-fundamentals/css.md)
+* [JavaScript](website-fundamentals/javascript/README.md)
+  * [Callback function](website-fundamentals/javascript/callback-function.md)
+  * [JavaScript version](website-fundamentals/javascript/javascript-version.md)
+  * [Class](website-fundamentals/javascript/class.md)
+* [Website knowledge](website-fundamentals/website-knowledge.md)
 
 ## React
 

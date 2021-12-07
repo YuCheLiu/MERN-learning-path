@@ -6,7 +6,7 @@ React-Router
 
 Webpack
 
-Redux
+Redux =>&#x20;
 
 Mongoose
 

@@ -48,3 +48,13 @@ GET, POST, PUT, PATCH, DELETE
 
 
 
+JWT, Session, Cookie
+
+JWT: [https://en.wikipedia.org/wiki/JSON\_Web\_Token](https://en.wikipedia.org/wiki/JSON\_Web\_Token)
+
+Client side session => including cookie to manage use status
+
+Server side session
+
+
+

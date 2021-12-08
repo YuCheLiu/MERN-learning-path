@@ -20,6 +20,7 @@
   * [React Lifecycle](react/react-class/react-lifecycle.md)
   * [Keyword: this](react/react-class/keyword-this.md)
 * [Hooks](react/hooks.md)
+* [Handling Events](react/handling-events.md)
 
 ## Node.js
 

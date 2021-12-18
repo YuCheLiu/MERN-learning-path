@@ -15,6 +15,6 @@ Library => express-graphql
 
 graphql-tools, apollo-server
 
-
+GraphQL is graph-based, REST APIs were resource-based.
 
 [https://graphql.org/code/#javascript](https://graphql.org/code/#javascript)

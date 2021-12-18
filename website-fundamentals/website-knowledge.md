@@ -58,3 +58,11 @@ Server side session
 
 
 
+
+
+* **1xx Informational Response**. Request received and understood. Request processing continues.
+* **2xx Success**. The action was successfully received, understood, and accepted.
+* **3xx Redirection**. Further action must be taken by the client to complete the request.
+* **4xx Client Errors**. An error may have been caused by the client. The request contains bad syntax or cannot be fulfilled.
+* **5xx Server Errors**.
+

@@ -10,6 +10,7 @@
   * [Callback function](website-fundamentals/javascript/callback-function.md)
   * [JavaScript version](website-fundamentals/javascript/javascript-version.md)
   * [Class](website-fundamentals/javascript/class.md)
+  * [Async/ Await Function](website-fundamentals/javascript/async-await-function.md)
 * [Website knowledge](website-fundamentals/website-knowledge.md)
 
 ## React

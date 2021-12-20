@@ -12,6 +12,7 @@
   * [JavaScript version](website-fundamentals/javascript/javascript-version.md)
   * [Class](website-fundamentals/javascript/class.md)
   * [Async/ Await Function](website-fundamentals/javascript/async-await-function.md)
+  * [Arrow Function](website-fundamentals/javascript/arrow-function.md)
 * [Website knowledge](website-fundamentals/website-knowledge.md)
 
 ## React

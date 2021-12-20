@@ -4,7 +4,8 @@
 
 ## Website fundamentals
 
-* [HTML](website-fundamentals/html.md)
+* [HTML](website-fundamentals/html/README.md)
+  * [DOM](website-fundamentals/html/dom.md)
 * [CSS](website-fundamentals/css.md)
 * [JavaScript](website-fundamentals/javascript/README.md)
   * [Callback function](website-fundamentals/javascript/callback-function.md)

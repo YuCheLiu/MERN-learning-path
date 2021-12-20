@@ -2,7 +2,23 @@
 
 Declarative vs imperative
 
+Declarative: The goal is to get the result. Not worry about the process.
 
+```
+const longPasswords = passwords.filter(password => password.length >= 9);
+```
+
+Imperative: line by line to execute the programming.
+
+```
+let longPasswords = [];
+for (let i = 0; i < passwords.length; i++) {
+   const password = passwords[i];
+   if (password.length >= 9) {
+      longPasswords.push(password);
+   }
+}
+```
 
 Virtual DOM vs traditional DOM
 

@@ -26,7 +26,13 @@ Virtual DOM vs traditional DOM
 
 Component-Based design&#x20;
 
+* Components talk to each other by sharing state information.
 
+**Isomorphic**
+
+* **Code can run either on client side and server side.**
+
+****
 
 Babel compiler helps us to transfer JSX file to javascript file
 

@@ -18,3 +18,9 @@ const cannot be redeclared&#x20;
 
 const cannot be reassigned
 
+
+
+Two ways to fetch js library:
+
+1. fetch from CDN
+2. fetch from the local libraries

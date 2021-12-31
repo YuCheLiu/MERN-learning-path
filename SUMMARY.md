@@ -51,7 +51,14 @@
   * [Middleware](server/express/middleware.md)
   * [Request and Response Object](server/express/request-and-response-object.md)
 
+***
+
+* [Go live better](go-live-better/README.md)
+  * [ESLint](go-live-better/eslint.md)
+  * [Compiler](go-live-better/compiler.md)
+  * [debug tool](go-live-better/debug-tool.md)
+
 ## API Design
 
-* [GraphQL](api-design/graphql.md)
 * [REST API](api-design/rest-api.md)
+* [GraphQL](api-design/graphql.md)

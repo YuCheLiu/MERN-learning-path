@@ -1,14 +1,6 @@
 # HTML
 
-### \<head>
-
-```
-<head>
-
-</head>
-```
-
-extension file type: .html
+### Define document type:
 
 <details>
 
@@ -17,6 +9,42 @@ extension file type: .html
 defines this doc is an HTML5 document.
 
 </details>
+
+\<html>: root element of the HTML page&#x20;
+
+### The website contains two main parts:
+
+<details>
+
+<summary>HTML head &#x3C;head> :  meta data of HTML file. </summary>
+
+```
+<head>
+
+</head>
+```
+
+\<title>
+
+\<style>
+
+\<meta>
+
+\<link>
+
+\<script>
+
+</details>
+
+<details>
+
+<summary>HTML body</summary>
+
+
+
+</details>
+
+### Common HTML tag attritube:
 
 <details>
 
@@ -30,43 +58,18 @@ class
 
 </details>
 
-<details>
-
-<summary>HTML head</summary>
-
-`<title>`
-
-`<style>`
-
-`<meta>`
-
-`<link>`
-
-`<script>`
-
-</details>
+### &#x20;Common HTML elements
 
 <details>
 
-<summary><code>HTML body</code></summary>
+<summary>HTML elements</summary>
 
-
-
-</details>
-
-\<html>: root element of the HTML page \
-\<head>: meta data of HTML file. \
-\<title>: title shows on the tab \
-\<body> : defines all the visible contents \
 \<h1> : text \
 \<p> : define a paragraph
 
+</details>
 
-
-Different between class and id:\
-Class can be used in multiplat&#x20;
-
-
+### Example for basic structure of HTML file
 
 ```
 <!DOCTYPE html>
@@ -80,3 +83,6 @@ Class can be used in multiplat&#x20;
     </body>
 </html>
 ```
+
+Different between class and id:\
+Class can be used in multiplat&#x20;

@@ -10,13 +10,61 @@
 
 extension file type: .html
 
-\<!DOCTYPE html>: defines this doc is an HTML5 document. \
+<details>
+
+<summary>&#x3C;!DOCTYPE html></summary>
+
+defines this doc is an HTML5 document.
+
+</details>
+
+<details>
+
+<summary>HTML attritube</summary>
+
+style
+
+id
+
+class
+
+</details>
+
+<details>
+
+<summary>HTML head</summary>
+
+`<title>`
+
+`<style>`
+
+`<meta>`
+
+`<link>`
+
+`<script>`
+
+</details>
+
+<details>
+
+<summary><code>HTML body</code></summary>
+
+
+
+</details>
+
 \<html>: root element of the HTML page \
 \<head>: meta data of HTML file. \
 \<title>: title shows on the tab \
 \<body> : defines all the visible contents \
 \<h1> : text \
 \<p> : define a paragraph
+
+
+
+Different between class and id:\
+Class can be used in multiplat&#x20;
 
 
 

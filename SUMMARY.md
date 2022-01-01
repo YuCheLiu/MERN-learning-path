@@ -52,15 +52,15 @@
   * [Middleware](server/express/middleware.md)
   * [Request and Response Object](server/express/request-and-response-object.md)
 
-***
-
-* [Go live better](go-live-better/README.md)
-  * [ESLint](go-live-better/eslint.md)
-  * [Compiler](go-live-better/compiler.md)
-  * [debug tool](go-live-better/debug-tool.md)
-  * [Three different web development stages](go-live-better/three-different-web-development-stages.md)
-
 ## API Design
 
 * [REST API](api-design/rest-api.md)
 * [GraphQL](api-design/graphql.md)
+
+## Deployment
+
+* [Go live better](deployment/go-live-better/README.md)
+  * [ESLint](deployment/go-live-better/eslint.md)
+  * [Compiler](deployment/go-live-better/compiler.md)
+  * [debug tool](deployment/go-live-better/debug-tool.md)
+  * [Three different web development stages](deployment/go-live-better/three-different-web-development-stages.md)

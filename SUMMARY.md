@@ -34,6 +34,7 @@
 * [Package](node.js/package/README.md)
   * [Package.json file](node.js/package.json-file.md)
   * [Package manager](node.js/package-manager.md)
+  * [dotenv](node.js/package/dotenv.md)
 
 ## Database
 
@@ -57,6 +58,7 @@
   * [ESLint](go-live-better/eslint.md)
   * [Compiler](go-live-better/compiler.md)
   * [debug tool](go-live-better/debug-tool.md)
+  * [Three different web development stages](go-live-better/three-different-web-development-stages.md)
 
 ## API Design
 

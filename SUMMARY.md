@@ -1,6 +1,7 @@
 # Table of contents
 
 * [What is MERN stack?](README.md)
+* [MERN learning path](mern-learning-path.md)
 
 ## Website fundamentals
 
@@ -8,8 +9,8 @@
   * [DOM](website-fundamentals/html/dom.md)
 * [CSS](website-fundamentals/css.md)
 * [JavaScript](website-fundamentals/javascript/README.md)
-  * [Callback function](website-fundamentals/javascript/callback-function.md)
   * [JavaScript version](website-fundamentals/javascript/javascript-version.md)
+  * [Callback function](website-fundamentals/javascript/callback-function.md)
   * [Class](website-fundamentals/javascript/class.md)
   * [Async/ Await Function](website-fundamentals/javascript/async-await-function.md)
   * [Arrow Function](website-fundamentals/javascript/arrow-function.md)
@@ -28,7 +29,7 @@
 
 ## Node.js
 
-* [High-level concept](node.js/high-level-concept.md)
+* [High-level Node.js concept](node.js/high-level-node.js-concept.md)
 * [Basic syntax](node.js/basic-syntax.md)
 * [Development environment setup](node.js/development-environment-setup.md)
 * [Package](node.js/package/README.md)
@@ -55,7 +56,9 @@
 ## API Design
 
 * [REST API](api-design/rest-api.md)
-* [GraphQL](api-design/graphql.md)
+* [GraphQL](api-design/graphql/README.md)
+  * [Mutation](api-design/graphql/mutation.md)
+  * [Query](api-design/graphql/query.md)
 
 ## Deployment
 
@@ -64,3 +67,5 @@
   * [Compiler](deployment/go-live-better/compiler.md)
   * [debug tool](deployment/go-live-better/debug-tool.md)
   * [Three different web development stages](deployment/go-live-better/three-different-web-development-stages.md)
+  * [Webpack](deployment/go-live-better/webpack.md)
+  * [Babel](deployment/go-live-better/babel.md)

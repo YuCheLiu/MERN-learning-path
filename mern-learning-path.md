@@ -6,8 +6,8 @@ Basic:
 [html](website-fundamentals/html/)
 {% endcontent-ref %}
 
-{% content-ref url="website-fundamentals/css.md" %}
-[css.md](website-fundamentals/css.md)
+{% content-ref url="website-fundamentals/css/" %}
+[css](website-fundamentals/css/)
 {% endcontent-ref %}
 
 {% content-ref url="website-fundamentals/javascript/" %}

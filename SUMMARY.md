@@ -6,8 +6,13 @@
 ## Website fundamentals
 
 * [HTML](website-fundamentals/html/README.md)
+  * [Text](website-fundamentals/html/text.md)
+  * [List](website-fundamentals/html/list.md)
+  * [Link](website-fundamentals/html/link.md)
+  * [Table](website-fundamentals/html/table.md)
   * [DOM](website-fundamentals/html/dom.md)
-* [CSS](website-fundamentals/css.md)
+* [CSS](website-fundamentals/css/README.md)
+  * [CSS Selectors](website-fundamentals/css/css-selectors.md)
 * [JavaScript](website-fundamentals/javascript/README.md)
   * [JavaScript version](website-fundamentals/javascript/javascript-version.md)
   * [Callback function](website-fundamentals/javascript/callback-function.md)

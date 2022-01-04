@@ -20,6 +20,7 @@
   * [Async/ Await Function](website-fundamentals/javascript/async-await-function.md)
   * [Arrow Function](website-fundamentals/javascript/arrow-function.md)
   * [Import V.S. require](website-fundamentals/javascript/import-v.s.-require.md)
+  * [Change HTML content](website-fundamentals/javascript/change-html-content.md)
 * [Website knowledge](website-fundamentals/website-knowledge.md)
 
 ## React

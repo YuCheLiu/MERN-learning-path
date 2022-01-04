@@ -1,22 +1,11 @@
 # JavaScript
 
-const vs var vs let
+### var      let       const
 
-var is global scope
-
-
-
-let cannot be redeclared&#x20;
-
-let is block scope
-
-
-
-const is block scope
-
-const cannot be redeclared&#x20;
-
-const cannot be reassigned
+| Name       | var | let | const |
+| ---------- | --- | --- | ----- |
+| block type | no  | yes | yes   |
+| redeclared | yes | no  | no    |
 
 
 

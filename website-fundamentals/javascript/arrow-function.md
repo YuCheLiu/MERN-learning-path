@@ -15,3 +15,5 @@ example = function(){
 
 example = ()=> "Hi arraow function";
 ```
+
+hello = () => { return "Hello World!"; }

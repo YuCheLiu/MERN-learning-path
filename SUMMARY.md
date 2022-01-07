@@ -15,12 +15,13 @@
   * [CSS Selectors](website-fundamentals/css/css-selectors.md)
 * [JavaScript](website-fundamentals/javascript/README.md)
   * [JavaScript version](website-fundamentals/javascript/javascript-version.md)
-  * [Callback function](website-fundamentals/javascript/callback-function.md)
   * [Class](website-fundamentals/javascript/class.md)
-  * [Async/ Await Function](website-fundamentals/javascript/async-await-function.md)
-  * [Arrow Function](website-fundamentals/javascript/arrow-function.md)
   * [Import V.S. require](website-fundamentals/javascript/import-v.s.-require.md)
   * [Change HTML content](website-fundamentals/javascript/change-html-content.md)
+  * [Function](website-fundamentals/javascript/function/README.md)
+    * [Callback function](website-fundamentals/javascript/function/callback-function.md)
+    * [Async/ Await Function](website-fundamentals/javascript/function/async-await-function.md)
+    * [Arrow Function](website-fundamentals/javascript/function/arrow-function.md)
 * [Website knowledge](website-fundamentals/website-knowledge.md)
 
 ## React

@@ -22,6 +22,7 @@
     * [Callback function](website-fundamentals/javascript/function/callback-function.md)
     * [Async/ Await Function](website-fundamentals/javascript/function/async-await-function.md)
     * [Arrow Function](website-fundamentals/javascript/function/arrow-function.md)
+  * [JavaScript Event](website-fundamentals/javascript/javascript-event.md)
 * [Website knowledge](website-fundamentals/website-knowledge.md)
 
 ## React

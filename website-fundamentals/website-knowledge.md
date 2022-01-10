@@ -1,30 +1,28 @@
 # Website knowledge
 
-Server-side rendering vs Client-side rendering
+### 1. Server-side rendering vs Client-side rendering
 
 
 
-Single page application vs Multi page application
+### 2. Single page application vs Multi page application
 
 
 
-Webstie compiler
+### 3. Webstie compiler
 
 
 
-Runtime vs Compile time
+### 4. Runtime vs Compile time
 
 
 
-JSON file
+5\. JSON file
 
 
 
-Cookie vs Session
+### 6. Cookie vs Session
 
-
-
-Async vs sync method
+Cookie => local storage
 
 
 

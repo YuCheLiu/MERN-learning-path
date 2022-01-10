@@ -6,7 +6,7 @@ A database is a collection of data that is organized in the Computer system.
 
 A simple database example is: Excel&#x20;
 
-![](<../.gitbook/assets/image (2) (1) (1).png>)
+![](<../.gitbook/assets/image (2) (1).png>)
 
 Excel is a table containing col and row to represent the data.&#x20;
 

@@ -1,5 +1,9 @@
 # React class
 
+If you haven't heard class before, checkout this page: [class.md](../../website-fundamentals/javascript/class.md "mention")
+
+
+
 React class extends React.Component, and class must have render function
 
 ```

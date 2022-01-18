@@ -47,14 +47,17 @@ React101/
 
 babel.config.js
 
+{% code title="babel.config.js" %}
 ```
 module.exports = {
   presets: ["@babel/preset-env", "@babel/preset-react"],
 };
 ```
+{% endcode %}
 
 webpack.config.js
 
+{% code title="webpack.config.js" %}
 ```
 module.exports = {
   module: {
@@ -70,23 +73,26 @@ module.exports = {
   },
 };
 ```
+{% endcode %}
 
 ### 6. Creating npm Scripts for Development
 
+{% code title="package.json" %}
 ```
-// In package.json
 scripts: {
   "test": "jest"
 }
 ```
+{% endcode %}
 
+{% code title="package.json" %}
 ```
-// In package.json
 scripts: {
     "start-web-server": "nodemon --exec babel-node src/server/server.js --ignore dist/",
     "compile": "webpack -w --mode=development"
 }
 ```
+{% endcode %}
 
 ### 7. Test with simaple React Application
 

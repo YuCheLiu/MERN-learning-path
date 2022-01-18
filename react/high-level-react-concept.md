@@ -36,3 +36,6 @@ Component-Based design&#x20;
 
 Babel compiler helps us to transfer JSX file to javascript file
 
+
+
+Separation of concerns -> reduce coupling, increase cohesion. Coupling -> the degree to which each program module relies on each of other modules. Template encourage a poor separation of concerns. Template separate technologies not concern

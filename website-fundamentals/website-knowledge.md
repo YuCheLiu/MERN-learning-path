@@ -2,7 +2,13 @@
 
 ### 1. Server-side rendering vs Client-side rendering
 
+### Server-side rendering
 
+![](<../.gitbook/assets/image (1).png>)
+
+### Client-side rendering
+
+![](<../.gitbook/assets/image (4).png>)
 
 ### 2. Single page application vs Multi page application
 

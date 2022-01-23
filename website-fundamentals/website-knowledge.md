@@ -8,7 +8,7 @@
 
 ### Client-side rendering
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (4) (1).png>)
 
 ### 2. Single page application vs Multi page application
 

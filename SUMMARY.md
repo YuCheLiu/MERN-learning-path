@@ -12,6 +12,7 @@
   * [Table](website-fundamentals/html/table.md)
   * [DOM](website-fundamentals/html/dom.md)
 * [CSS](website-fundamentals/css/README.md)
+  * [display](website-fundamentals/css/display.md)
   * [CSS Selectors](website-fundamentals/css/css-selectors.md)
 * [JavaScript](website-fundamentals/javascript/README.md)
   * [JavaScript version](website-fundamentals/javascript/javascript-version.md)

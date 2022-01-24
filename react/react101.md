@@ -24,11 +24,21 @@ $ npm install react-dom
 $ npm i webpack webpack-cli
 ```
 
-### 3. Installing Development Dependencies
+### 3. Installing babel Development Dependencies
 
 ```
-$ npm i -D eslint babel-eslint eslint-plugin-react eslint-plugin-react-hooks
+$ npm install --save-dev @babel/core @babel/preset-env @babel/preset-react
 ```
+
+
+
+### 3. Installing webpack Development Dependencies
+
+```
+$npm install --save-dev @webpack/cli
+```
+
+
 
 ### 4. Creating an Initial Directory Structure
 
@@ -55,25 +65,36 @@ module.exports = {
 ```
 {% endcode %}
 
-webpack.config.js
+### create webpack.config.js file
 
-{% code title="webpack.config.js" %}
 ```
-module.exports = {
-  module: {
-    rules: [
-      {
-        test: /\.js$/,
-        exclude: /node_modules/,
-        use: {
-          loader: "babel-loader",
-        },
-      },
-    ],
-  },
-};
+// 
+const path = require("path");
+
+module.exports={
+    mode:"development",
+    entry:path.resolve(__dirname,'src/app/App.jsx'),
+    output:{
+        path: path.resolve(__dirname, 'dist'),
+        filename: "bundle.js",
+        publicPath: '/'
+    },
+    resolve:{
+        extensions:['.js','.jsx']
+    },
+    devServer:{
+        static:'./dist',
+        historyApiFallback: true
+    },
+    module:{
+        rules:[{
+            test: /\.jsx?/,
+            loader: 'babel-loader'
+            }
+        ]
+    }
+}
 ```
-{% endcode %}
 
 ### 6. Creating npm Scripts for Development
 

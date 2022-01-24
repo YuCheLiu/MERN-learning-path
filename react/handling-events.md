@@ -4,7 +4,7 @@
 
 ### Function Component
 
-```
+```javascript
 //
 function Func(props){
     const [name, setName]= useState(props.name);
@@ -22,7 +22,7 @@ function Func(props){
 
 onClick can pass function directly, if you want to pass extra paramaters, use arrow function
 
-```
+```javascript
 //
 function Func(props){
     const [name, setName]= useState(props.name);
@@ -46,7 +46,7 @@ function need to bind with the current class component using bind function and p
 
 call function => we can use this keyword to access this keyword to find the function that we binded
 
-```
+```javascript
 //
 class ClassComponent extends React.Component{
     constructor(props){

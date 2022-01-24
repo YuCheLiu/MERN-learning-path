@@ -4,13 +4,13 @@ Declarative vs imperative
 
 Declarative: The goal is to get the result. Not worry about the process.
 
-```
+```javascript
 const longPasswords = passwords.filter(password => password.length >= 9);
 ```
 
 Imperative: line by line to execute the programming.
 
-```
+```javascript
 let longPasswords = [];
 for (let i = 0; i < passwords.length; i++) {
    const password = passwords[i];

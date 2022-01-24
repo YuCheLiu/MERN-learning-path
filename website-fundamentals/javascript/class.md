@@ -1,6 +1,6 @@
 # Class
 
-```
+```javascript
 class ClassName {
   constructor() { ... }
   method_1() { ... }
@@ -15,14 +15,14 @@ In JavaScript, Classes are template for creating object.
 
 declare a class with curly brackets:
 
-```
+```javascript
 class Name{
 }
 ```
 
 instance properties
 
-```
+```javascript
 class School{
     constructor(name){
         this.name = name;
@@ -33,7 +33,7 @@ class School{
 sub classing using extends keyword
 
 {% code title="Student Class" %}
-```
+```javascript
 class Student extends School{
     constructor(studentName, SchoolName){
         this.studentName = studentName;
@@ -45,7 +45,7 @@ class Student extends School{
 
 Super class calls with super keyword
 
-```
+```javascript
 class Student extends School{
     constructor(studentName, SchoolName){
         super(SchoolName); => call School also.

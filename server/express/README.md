@@ -2,7 +2,7 @@
 
 ### Here is a code snippet to demo a simple express website
 
-```
+```javascript
 const express = require('express');
 
 const app = express();

@@ -58,7 +58,7 @@ React101/
 babel.config.js
 
 {% code title="babel.config.js" %}
-```
+```javascript
 module.exports = {
   presets: ["@babel/preset-env", "@babel/preset-react"],
 };
@@ -67,7 +67,7 @@ module.exports = {
 
 ### create webpack.config.js file
 
-```
+```javascript
 // 
 const path = require("path");
 
@@ -99,7 +99,7 @@ module.exports={
 ### 6. Creating npm Scripts for Development
 
 {% code title="package.json" %}
-```
+```javascript
 scripts: {
   "test": "jest"
 }
@@ -107,7 +107,7 @@ scripts: {
 {% endcode %}
 
 {% code title="package.json" %}
-```
+```javascript
 scripts: {
     "start-web-server": "nodemon --exec babel-node src/server/server.js --ignore dist/",
     "compile": "webpack -w --mode=development"
@@ -119,7 +119,7 @@ scripts: {
 
 src/App.jsx
 
-```
+```javascript
 class HelloWorld extends React.Component {
     render() {  
       return (
@@ -136,7 +136,7 @@ class HelloWorld extends React.Component {
 
 public/index.html
 
-```
+```html
 <!DOCTYPE HTML>
 <html>
 

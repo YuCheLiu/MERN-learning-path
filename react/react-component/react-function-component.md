@@ -1,6 +1,6 @@
 # React Function Component
 
-```
+```javascript
 function Func(props){
     return (
         <div>

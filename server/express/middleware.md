@@ -18,7 +18,7 @@ There are several types of middleware.
 
 application-level middleware binds with an instance of Express. In application-level middleware, we can use app.use() or app.get()... to handle different user's requests.&#x20;
 
-```
+```javascript
 var express = require('express') => load express module
 var app = express()  => create express instance
 

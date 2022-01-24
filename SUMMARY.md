@@ -15,6 +15,7 @@
   * [display](website-fundamentals/css/display.md)
   * [CSS Selectors](website-fundamentals/css/css-selectors.md)
 * [JavaScript](website-fundamentals/javascript/README.md)
+  * [Map function](website-fundamentals/javascript/map-function.md)
   * [JavaScript version](website-fundamentals/javascript/javascript-version.md)
   * [Class](website-fundamentals/javascript/class.md)
   * [Import V.S. require](website-fundamentals/javascript/import-v.s.-require.md)

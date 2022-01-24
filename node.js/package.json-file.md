@@ -4,7 +4,7 @@
 
 learn more about json file: json&#x20;
 
-```
+```javascript
 {
   "name": "MERN Stack Learning Path",
   "version": "1.0.0",

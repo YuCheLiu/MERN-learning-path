@@ -4,7 +4,7 @@ Callback function is a function that allows a function to take another function 
 
 You can think about it as a chain of functions.
 
-```
+```javascript
 function executeCallback(some) { 
     console.log("callback:"+some); 
 }

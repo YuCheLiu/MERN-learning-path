@@ -1,6 +1,6 @@
 # Arrow Function
 
-```
+```javascript
 function Hello(){
     return "Hi";
 }

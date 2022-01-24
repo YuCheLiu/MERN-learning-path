@@ -6,7 +6,7 @@ If you haven't heard class before, checkout this page: [class.md](../../../websi
 
 React class extends React.Component, and class must have render function
 
-```
+```javascript
 class ClassComponent extends React.Component{
     constructor(props){
         super(props)

@@ -1,6 +1,6 @@
-# React class
+# React Class Component
 
-If you haven't heard class before, checkout this page: [class.md](../../website-fundamentals/javascript/class.md "mention")
+If you haven't heard class before, checkout this page: [class.md](../../../website-fundamentals/javascript/class.md "mention")
 
 
 

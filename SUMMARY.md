@@ -25,6 +25,7 @@
     * [Async/ Await Function](website-fundamentals/javascript/function/async-await-function.md)
     * [Arrow Function](website-fundamentals/javascript/function/arrow-function.md)
   * [JavaScript Event](website-fundamentals/javascript/javascript-event.md)
+  * [Object and List](website-fundamentals/javascript/object-and-list.md)
 * [Website knowledge](website-fundamentals/website-knowledge.md)
 
 ## React

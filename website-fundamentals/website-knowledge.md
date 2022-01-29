@@ -20,7 +20,7 @@ babel
 
 ### 4. Runtime vs Compile time
 
-
+![](<../.gitbook/assets/image (8).png>)
 
 5\. JSON file
 
@@ -29,6 +29,14 @@ babel
 ### 6. Cookie vs Session
 
 Cookie => local storage
+
+
+
+### 7. Declarative Code V.S. Imperative Code
+
+Imperative code => told machine how to do,system stupid, you are smart&#x20;
+
+Declarative code => focus on outcome,  system takes care of everything.
 
 
 

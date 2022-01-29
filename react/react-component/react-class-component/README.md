@@ -26,3 +26,15 @@ An instance of the Welcome class can be created like this:consComponent Lifecycl
 ```
 const element = <Welcome />
 ```
+
+
+
+Controll side effect => componentDidMount() => happened before browser updates the screen
+
+
+
+load data from remote API => componentDidMount()
+
+
+
+componentDidMount

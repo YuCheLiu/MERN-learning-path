@@ -33,6 +33,7 @@
 * [React Component](react/react-component/README.md)
   * [React Function Component](react/react-component/react-function-component.md)
   * [React Class Component](react/react-component/react-class-component/README.md)
+    * [Constructor](react/react-component/react-class-component/constructor.md)
     * [React Lifecycle](react/react-component/react-class-component/react-lifecycle.md)
     * [Keyword: this](react/react-component/react-class-component/keyword-this.md)
 * [High-level React concept](react/high-level-react-concept.md)

@@ -66,3 +66,25 @@ class ClassComponent extends React.Component{
     }
 }
 ```
+
+There is another way to handle events => use an anonymous function &#x20;
+
+```javascript
+//
+class ClassComponent extends React.Component{
+    constructor(props){
+        super(props)
+        this.state = {name: props.name}
+    }
+    handleClick = (event,id) => {
+        this.setState({name:"Qoo"+id})
+    }
+
+    render(){
+        return <div>
+                     <h1>Hello from {this.state.name}</h1>
+                     <button onClick={this.handleClick(event, 5)}>Click me</button>
+                 </div>
+    }
+}
+```

@@ -17,3 +17,7 @@ example = ()=> "Hi arraow function";
 ```
 
 hello = () => { return "Hello World!"; }
+
+arrow function create function where the fucntion being created.
+
+When use "this" keyword, it can be inside class.

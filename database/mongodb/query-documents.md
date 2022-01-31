@@ -23,3 +23,29 @@ const cursor = db.collection('inventory').find({status : { $in : ['A', 'D']}});
 ```
 const cursor = db.collection('inventory').find({status : 'A', qty: '30'})
 ```
+
+
+
+### Aggregate function - a powerful version of 'find' method
+
+```javascript
+//
+async function findAggreate(db){
+  const pipeline = [
+    {
+      '$match': {
+        'price': 1000
+      }
+    },
+    {
+      '$project': {
+        'name': 1,
+        'price':1,
+        'accommodates':1
+      }
+    }
+
+  ]
+  const cursor = await db.collection('listingsAndReviews').aggregate(pipeline).toArray();
+  cursor.map( (list) => {console.log(list)})
+```

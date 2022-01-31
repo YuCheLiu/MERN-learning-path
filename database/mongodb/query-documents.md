@@ -49,3 +49,7 @@ async function findAggreate(db){
   const cursor = await db.collection('listingsAndReviews').aggregate(pipeline).toArray();
   cursor.map( (list) => {console.log(list)})
 ```
+
+$match => base on the rule to filter the result&#x20;
+
+$project => only show require field.

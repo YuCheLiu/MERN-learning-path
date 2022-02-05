@@ -6,7 +6,7 @@ schema&#x20;
 //
 type Mutation
     changeBooks(bookname:String):String
-}vava
+}
 ```
 
 resolvers

@@ -72,6 +72,7 @@
 
 * [REST API](api-design/rest-api.md)
 * [GraphQL](api-design/graphql/README.md)
+  * [Apollo server](api-design/graphql/apollo-server.md)
   * [Mutation](api-design/graphql/mutation.md)
   * [Query](api-design/graphql/query.md)
 

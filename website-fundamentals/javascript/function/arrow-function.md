@@ -21,3 +21,5 @@ hello = () => { return "Hello World!"; }
 arrow function create function where the fucntion being created.
 
 When use "this" keyword, it can be inside class.
+
+it binds to golbal variable of javascript.
